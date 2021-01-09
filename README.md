@@ -7,10 +7,10 @@
 
 3，主要修改代码部分：
 
-(１）hyp.scatch.yaml中增加关键点loss的超参数
+(１）hyp.scatch.yaml中增加关键点loss的超参数（landmark: 0.5）
 
 (2)　yolo.py中增加了关键点回归的计算
 
-(3)　face_datasets.py为人脸数据的读取方式，准备数据的格式参考yolov5的格式，在后面增加关键点的左边（归一化）
+(3)　face_datasets.py为人脸数据的读取方式，准备数据的格式参考yolov5的格式，在后面增加关键点的坐标（归一化）
 
 (4)　loss.py中增加关键点回归的loss计算
