@@ -14,3 +14,5 @@
 (3)　face_datasets.py为人脸数据的读取方式，准备数据的格式参考yolov5的格式，在后面增加关键点的坐标（归一化）
 
 (4)　loss.py中增加关键点回归的loss计算
+
+（５）链接: https://pan.baidu.com/s/1zjPIF2NZ9CGtB2iUCox6hw  密码: j83n
