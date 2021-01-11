@@ -1,7 +1,7 @@
 # yolov5_face_landmark
 基于yolov5的人脸检测，带关键点检测
 
-1，在yolov5的检测基础上，加上关键点回归分支
+1，在yolov5的检测基础上，加上关键点回归分支，请先下载yolov5的工程：https://github.com/ultralytics/yolov5
 
 2，detect_one.py是单张图片的测试代码，　基于部分wideface训练的模型，稍后在百度云公开。
 
@@ -15,4 +15,6 @@
 
 (4)　loss.py中增加关键点回归的loss计算
 
-（５）链接: https://pan.baidu.com/s/1zjPIF2NZ9CGtB2iUCox6hw  密码: j83n
+(5) 链接: https://pan.baidu.com/s/1zjPIF2NZ9CGtB2iUCox6hw  密码: j83n
+
+(6)![效果图](https://github.com/xialuxi/yolov5_face_landmark/blob/main/test_yolov5.jpg)
