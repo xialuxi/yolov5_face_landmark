@@ -18,3 +18,4 @@
 + 1，建议可以替换成wingloss训练，可以优化关键点的精准度。
 + 2，可以解决关键点的离群点问题
 + 3，wideface之中有不少特别小的人脸，如果不处理会对精度有一定的影响。
++ 完整的代码可以参考： https://github.com/deepcam-cn/yolov5-face
